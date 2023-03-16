@@ -23,6 +23,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut l
 
+[Projektseite](https://n3rds.work/cp_psource/psource-plugin)
+[Supportforum](https://n3rds.work/forum/psource-plugin)
+[GitHub](https://github.com/cp-psource/psource-plugin)
+
+[POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/cp-powersource/)
+
 == Languages ==
 
 * Deutsch: de_DE
